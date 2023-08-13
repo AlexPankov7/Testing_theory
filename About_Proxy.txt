@@ -1,0 +1,19 @@
+Прокси сервер - это дополнительное звено между вами и интернетом.
+Это некоторый посредник, который отделяет пользователя от сайта(приложения...)
+
+Прокси сервер создаёт условия, при которых сайт думает что прокси и есть реальный человек(пользователь)
+
+Используется Прокси для:
+1. Обеспечения конфеденциальности.Чтобы сайты не знали кто именно их посещает.
+2. Для повышения уровня безопасности при входе в сеть.
+3. Также прокси сервер нужен чтобы получить доступ к контенту, который находится в определённой локации.
+
+A proxy server is an additional link between you and the Internet.
+This is some intermediary that separates the user from the site(applications...)
+
+The proxy server creates conditions under which the site thinks that the proxy is the real person(user)
+
+Used by Proxy for:
+1. Ensuring privacy. So that the sites do not know who is visiting them.
+2. To increase the level of security when logging in to the network.
+3. Also, a proxy server is needed to access content that is in a specific location.
