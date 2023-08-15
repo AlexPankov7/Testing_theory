@@ -1,0 +1,30 @@
+		BASIC UI TERMS
+
+PUSH	-	bitton
+CHECK	-	the check box
+PRESS	-	keyboard key
+SELECT	-	text, menu item
+FOLDER/TAB -	
+
+=======================
+
+# Requirements		требования
+# N/A			не применимо(прим. - к данному полю)
+# Bug Report		сообщение об ошибке
+# Table			таблица
+# Row			ряд в таблице(в SQL - ещё говорят 'записи')
+# Column		столбец(В SQL - 'поля')
+# Consistency		последовательность 
+# Inconsistency		непоследовательность или нарушение порядка
+# Case sensitive   	чувствительность к регистру
+# Case insensitive  	нечувствительность к регистру
+# Descending order 	нисходящий от большего к меньшему
+# Ascending order  	восходящий от маленького к большему
+# Label		   	статический текст
+# Character	   	знак
+# Letter	   	буква
+# Digit		   	цифра
+# Special character  	специальные символы(@, #, %, &.)
+# Number	    	число
+
+
