@@ -1,6 +1,6 @@
 		BASIC UI TERMS
 
-PUSH	-	bitton
+PUSH	-	button
 CHECK	-	the check box
 PRESS	-	keyboard key
 SELECT	-	text, menu item
